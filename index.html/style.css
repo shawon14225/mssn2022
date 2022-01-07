@@ -7,11 +7,11 @@ body{
     overflow-x: hidden;
 }
 h1{
-    font-size: 54px;
+    font-size: 43px;
 }
 .sidebar{
     width: 15%;
-    height: 180px;
+    height: 130px;
     background-image: linear-gradient(orangered,red);
     margin-left: 20px;
     border-radius: 5px;
@@ -19,7 +19,7 @@ h1{
     margin-top: 55px;
     margin-right: 10px;
 }
-.title-color{
+.tile-color{
     color:orangered;
 }
 .first-section{
@@ -47,8 +47,8 @@ h1{
     text-align: center;
 }
 .blue-color{
-    color:rgb(1,1,70);
-    font-style: oblique;
+    color:rgb(65, 65, 247);
+    font-style: italic ;
 }
 .custom-wordpress{
     width: 300px;
